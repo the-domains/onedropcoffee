@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[OneDropCoffee]]></title>
         <description><![CDATA[OneDropCoffee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/onedropcoffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Aug 2015 18:02:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 11 Aug 2015 18:02:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/onedropcoffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-sea1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/60252_294117797359276_1801618337_n.jpg?oh=8ea352dd5ab28838f908e5276f6f8f27&oe=564B0F16">]]></description>
+            <link>https://thegrid.ai/onedropcoffee/24d080f3-75a7-43a3-912c-ebb2ac1cc117/index.html</link>
+            <guid isPermaLink="false">24d080f3-75a7-43a3-912c-ebb2ac1cc117</guid>
+            <pubDate>Tue, 11 Aug 2015 18:02:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-sea1-1.xx.fbcdn.net/hphotos-xfa1/t31.0-8/326860_295118550592534_1744930999_o.png">]]></description>
-            <link>undefinedef20ab4b-9f96-4433-9fc6-7ca278d7cdc2/index.html</link>
+            <link>https://thegrid.ai/onedropcoffee/ef20ab4b-9f96-4433-9fc6-7ca278d7cdc2/index.html</link>
             <guid isPermaLink="false">ef20ab4b-9f96-4433-9fc6-7ca278d7cdc2</guid>
             <pubDate>Tue, 11 Aug 2015 18:02:03 GMT</pubDate>
         </item>
