@@ -5,7 +5,7 @@
         <description><![CDATA[OneDropCoffee]]></description>
         <link>https://thegrid.ai/onedropcoffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Aug 2015 18:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2015 18:08:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/onedropcoffee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -27,13 +27,6 @@
             <link>https://thegrid.ai/onedropcoffee/f4d76adc-1d75-4eea-9fa4-806998b5ef9d/index.html</link>
             <guid isPermaLink="false">f4d76adc-1d75-4eea-9fa4-806998b5ef9d</guid>
             <pubDate>Tue, 11 Aug 2015 18:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-sea1-1.xx.fbcdn.net/hphotos-xfa1/t31.0-8/326860_295118550592534_1744930999_o.png">]]></description>
-            <link>https://thegrid.ai/onedropcoffee/ef20ab4b-9f96-4433-9fc6-7ca278d7cdc2/index.html</link>
-            <guid isPermaLink="false">ef20ab4b-9f96-4433-9fc6-7ca278d7cdc2</guid>
-            <pubDate>Tue, 11 Aug 2015 18:02:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
