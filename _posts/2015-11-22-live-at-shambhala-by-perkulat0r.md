@@ -1,16 +1,18 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: true
+keywords: []
+description: 'Stoked to present to you all my Shambhala Music Festival​ live set from the AMPitheatre!!! Huge love to all you amazing party people who made it out to this set early in the day on Friday, it was crazy to see the Amp go from almost empty to full in 10-15 minutes!'
+datePublished: '2015-11-22T20:37:45.675Z'
+dateModified: '2015-11-22T20:37:42.963Z'
 author:
   - name: Perkulat0r
     url: 'http://soundcloud.com/perkulat0r'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'Stoked to present to you all my Shambhala Music Festival​ live set from the AMPitheatre!!! Huge love to all you amazing party people who made it out to this set early in the day on Friday, it was crazy to see the Amp go from almost empty to full in 10-15 minutes!'
 app_links:
   - type: ios
     app_name: SoundCloud
@@ -22,15 +24,16 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://sounds:219571483'
     type: android
-isBasedOnUrl: 'https://soundcloud.com/perkulat0r/live-at-shambhala'
 title: Live At Shambhala by Perkulat0r
-datePublished: '2015-11-22T20:34:32.882Z'
-dateModified: '2015-11-22T20:34:08.767Z'
 sourcePath: _posts/2015-11-22-live-at-shambhala-by-perkulat0r.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: live-at-shambhala-by-perkulat0r/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
