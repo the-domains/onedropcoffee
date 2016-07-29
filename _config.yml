@@ -1,7 +1,7 @@
 name: OneDropCoffee
 favicon: null
-layout_spectrum: 0.22027
-typography_spectrum: 0.5
+layout_spectrum: 0.41288981889374554
+typography_spectrum: 0.5184305889997631
 title: One Drop One Love Drink One Drop
 cta:
   domain: null
@@ -17,15 +17,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#005a64'
-    - '#5c9e88'
-    - '#f33359'
-    - '#ff9b51'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.17856123321689665
+  lightness: 0.5496810078620911
+  saturation: 0.5515904598869383
+  rhythmicContrast: 0.3183064181357622
 purpose:
   - name: follow
     item: ea974062-015b-4f89-85f5-4814092fc7b9
