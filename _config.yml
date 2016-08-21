@@ -1,21 +1,4 @@
-name: OneDropCoffee
-favicon: null
-layout_spectrum: 0.41288981889374554
 typography_spectrum: 0.5184305889997631
-style: the-composer
-title: One Drop One Love Drink One Drop
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6138'
@@ -27,7 +10,24 @@ color:
   lightness: 0.5496810078620911
   saturation: 0.5515904598869383
   rhythmicContrast: 0.3183064181357622
-purpose:
-  - name: follow
-    item: ea974062-015b-4f89-85f5-4814092fc7b9
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.41288981889374554
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: OneDropCoffee
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Beans
+    id: da3623f8-4b6a-42ef-9ccd-b2d09e90849b
+    type: content
+favicon: null
+title: One Drop One Love Drink One Drop
+purpose: []
