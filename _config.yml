@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: OneDropCoffee
+name: One Drop Coffee
 cta:
   domain: null
   bucket: null
@@ -27,6 +27,9 @@ cta:
 navigation:
   - name: Beans
     id: da3623f8-4b6a-42ef-9ccd-b2d09e90849b
+    type: content
+  - name: Cold Brew
+    id: ca176ab6-17c5-47e5-b8da-266a189dfba4
     type: content
 favicon: null
 title: One Drop One Love Drink One Drop
