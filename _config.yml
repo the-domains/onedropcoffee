@@ -31,9 +31,6 @@ navigation:
   - name: Cold Brew
     id: ca176ab6-17c5-47e5-b8da-266a189dfba4
     type: content
-  - name: Locations
-    id: 8b617274-4ca0-4da6-b8c6-82102e40c9ae
-    type: content
 favicon: null
 title: One Drop One Love Drink One Drop
 purpose: []
